@@ -1,0 +1,2 @@
+public class SolutionEx3 {
+}
